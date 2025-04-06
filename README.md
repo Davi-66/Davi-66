@@ -4,7 +4,7 @@ Olá! Meu nome é Davi Rezende tenho 20 anos e sou estudante de Ciência da Comp
 Tenho interesse em diversas áreas da computação e venho desenvolvendo habilidades técnicas que me ajudam a criar soluções criativas e funcionais.
 
 🧠 Conhecimentos técnicos:
-🐍 Python (principal linguagem)
+🐍 Python 
 
 💻 C++
 
